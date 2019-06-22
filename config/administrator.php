@@ -53,6 +53,9 @@ return array(
             'replies',
 >>>>>>> Admin can manage content
         ],
+        '站点管理' => [
+            'settings.site',
+        ],
     ],
 
     /*
